@@ -52,6 +52,8 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\ChangeColorOnCol.cs" />
+     <Compile Include="Assets\Scripts\ManuallyDelayNewSceneLoad.cs" />
+     <Compile Include="Assets\Scripts\SceneLoadProgress.cs" />
      <Compile Include="Assets\Scripts\StandardLoadScene.cs" />
  <Reference Include="UnityEngine.CoreModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2017.4.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
